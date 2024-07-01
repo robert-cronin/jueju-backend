@@ -6,7 +6,7 @@ require (
 	github.com/coreos/go-oidc/v3 v3.10.0
 	github.com/getkin/kin-openapi v0.125.0
 	github.com/gofiber/fiber/v2 v2.52.4
-	github.com/google/uuid v1.5.0
+	github.com/google/uuid v1.6.0
 	github.com/oapi-codegen/oapi-codegen/v2 v2.3.0
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/redis/go-redis/v9 v9.5.3
